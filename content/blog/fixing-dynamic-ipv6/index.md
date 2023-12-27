@@ -5,9 +5,10 @@ summary: As an Indian home internet user, I struggled with my ISP's improper IPv
 date: 2023-12-27
 cardimage: ipv6_card.png
 featureimage: ipv6.png
-caption: <br>
+caption: " "
 authors:
   - Milindh Vijay: author.jpeg
+tags: ["ipv6", "internet", "network", "prefix", "pd", "bsnl", "jio"]
 draft: false
 ---
 
