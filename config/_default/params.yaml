@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-#title: milindhvijay-blog
-#description: "Site build with Qubt & Hugo"
-#images:
-#  - thumbnail.png
+title: Milindh Vijay Blog
+description: "Site build with Qubt & Hugo"
+images:
+  - thumbnail.png
