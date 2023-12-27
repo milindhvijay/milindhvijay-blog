@@ -1,6 +1,6 @@
 ---
 title: Hacking My Way Around IPv6 Dynamic PD
-subtitle: "Exploring Jugaads/Fixes 🔨"
+subtitle: "Jugaading My Way to Stable IPv6 Connectivity 🔨"
 summary: As an Indian home internet user, I struggled with my ISP's improper IPv6 configuration and resorted to workaround router hacks to maintain stable connectivity, showcasing the need for proper implementation of IPv6 standards.
 date: 2023-12-27
 cardimage: ipv6_card.png
