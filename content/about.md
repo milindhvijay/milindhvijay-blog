@@ -4,7 +4,7 @@ type: misc
 
 # change these
 jobTitle: Software Developer and a Network Enthusiast
-name: Milindh Vijay Shajiv Nair
+name: Milindh Vijay
 bio: true
 #icon: ":coffee:"
 ---
