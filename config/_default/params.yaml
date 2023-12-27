@@ -3,22 +3,22 @@
 ############################
 
 author:
-  name: milindhvijay
+  name: Milindh Vijay Shajiv Nair
   image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  greeting: "Software Developer and a Network Enthusiast"
+  #icon: ":wave:"
 
 ############################
 ## Links
 ############################
 
 links:
-  - github: https://github.com/milindhvijay/milindhvijay-blog
-  - link: https://github.com/milindhvijay/milindhvijay-blog#readme
-  # - website: 
-  # - x-twitter: 
+  - github: https://github.com/milindhvijay/
+  #- link: https://github.com/milindhvijay/milindhvijay-blog#readme
+  - website: https://milindhvijay.com/
+  - x-twitter: https://twitter.com/milindhvijay
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/milindhvijay/
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,7 +26,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: mailto:milindhvijay@gmail.com
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: milindhvijay-blog
-description: "Site build with Qubt & Hugo"
-images:
-  - thumbnail.png
+#title: milindhvijay-blog
+#description: "Site build with Qubt & Hugo"
+#images:
+#  - thumbnail.png
